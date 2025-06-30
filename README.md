@@ -1,3 +1,5 @@
+FORKNOTES: mild patching to make the fucker compile on arch linux as of 6/29/25
+
 # Game Capture HD Linux driver
 
 This project provides a userspace driver to natively support the Elgato Game
